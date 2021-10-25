@@ -1,0 +1,18 @@
+body {
+    padding: 1%;
+}
+
+button {
+    border-radius: 2px;
+    background-color: azure;
+    color: blueviolet;
+}
+
+button:hover {
+    background-color: darkturquoise;
+}
+
+button:active {
+    background-color: darkmagenta;
+    color: gainsboro;
+}
